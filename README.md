@@ -2,7 +2,7 @@
 
 👩🏻‍💻 I'm Jessica (she/her), a junior at UC San Diego studying Data Science. 
 
-#### Data science wise:
+#### Some pieces about DS:
 - 🔭 I’m currently building ad-hoc data dashboards at **Franklin Templeton** to assist data-driven blockchain and VC decisions.
 - 🌱 In the fall, I will be working on my **senior capstone project** on diffusion model in image generation with professors _Alex Cloninger_ and _Rayan Saab_.
 - 🤩 I'm interested in understanding individuals and communities behind data and derive business insights accordingly.

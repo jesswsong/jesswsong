@@ -11,7 +11,7 @@
 
 #### Myself:
 - 💬 Some of my other interests include studying pop culture/mass media, boxing, and journaling.
-- ⚡ Fun fact: I use :) extensively on a daily basis :)
+- ⚡ Fun fact: I love taking photos of the sun, dm me for a collection :)
 
 📫 Feel free to reach out for anything (including just saying hi)! Best way to contact me include:
   - jwsong@ucsd.edu

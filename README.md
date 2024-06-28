@@ -1,28 +1,27 @@
 ## Hi there 👋
 
-👩🏻‍💻 I'm Jessica (she/her), a junior at UC San Diego studying Data Science. 
+👩🏻‍💻 I'm Jess (she/her), a senior at UC San Diego studying Data Science & Business. 
 
 #### My work:
-- 🔭 I’m currently building ad-hoc data dashboards at [Franklin Templeton](https://www.franklintempleton.com/) to assist data-driven blockchain and VC decisions.
-- 🌱 In the fall, I will be working on my **senior capstone project** on diffusion model in image generation with professors _Alex Cloninger_ and _Rayan Saab_.
+- 🔭 I’m currently building risk models at [Wells Fargo](https://www.wellsfargo.com/) using traditional ML methods and LLM to automize previously manual process.
+- In the past, I have:
+    - developed Stable Diffusion-based webapp that transforms user input into creative artwork in my [senior capstone project](https://dsc180-b11-2.github.io/layout-grounded-optimization/), advised by *Dr. Alex Cloninger and Dr. Rayan Saab.* 
+    - built ad-hoc web3 market data dashboards & statistical models at [Franklin Templeton](https://www.franklintempleton.com/).
 - 🤩 I'm interested in understanding individuals and communities behind data and derive business insights accordingly.
-- Tasks I'm familiar with include:
-    - Feature engineering, data cleaning, data visualizations, data pipelines, machine learning, model selection using Java and R. 
+- Find me for:
+    - data mining & traditional machine learning
+    - data visualizations & interpretation for business
+    - integrate deep learning models into user-friendly environments
 
 #### Myself:
-- 💬 Some of my other interests include studying pop culture/mass media, boxing, and journaling.
-- ⚡ Fun fact: I love taking photos of the sun, dm me for a collection :)
+- 💬 Some of my other interests include calligraphy, hiking, & boxing.
+- 🌏 Fun fact: I've lived in China, Canada and the States growing up 
 
 📫 Feel free to reach out for anything (including just saying hi)! Best way to contact me include:
   - jwsong@ucsd.edu
   - https://www.linkedin.com/in/jessicawsong/
 
-<!--
-**7essicas/7essicas** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
-Here are some ideas to get you started:
-
-a list of sunshine pictures i've taken!
 
 - 
 - 🌱 I’m currently learning ...
